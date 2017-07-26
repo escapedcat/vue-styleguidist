@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "dog-names": "^1.0.2",
-    "vue-styleguidist": "^1.2.0",
+    "vue-styleguidist": "git://github.com/vue-styleguidist/vue-styleguidist#master",
     "webpack": "^3.3.0",
     "vue": "^2.4.1",
     "babel-plugin-transform-runtime": "^6.23.0",
